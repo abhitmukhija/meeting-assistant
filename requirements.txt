@@ -1,0 +1,5 @@
+streamlit>=1.30
+groq
+pydantic>=2
+pydub
+audioop-lts; python_version >= "3.13"
