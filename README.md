@@ -10,7 +10,7 @@ https://abhitmukhija-meeting-assistant-app-4vpbp5.streamlit.app/
 
 **No API key or installation is needed to use the live app.** Open the link, upload an English meeting recording, and click **Process recording**. An API key is only required if you want to [run the project locally](#local-setup-and-run).
 
-Demo video: _add link here_
+Demo video: https://drive.google.com/file/d/13zr1fLOrOkxSXw0YBLr1XSTReDWVHVgJ/view?usp=drive_link
 
 > Note: the live app runs on a free-tier Groq key with per-minute and per-day token limits. If you see a rate-limit message, wait a minute and retry. Very long recordings may need a key with higher limits.
 
